@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8î¶Í’Â1
+S
+java:S1854"6Remove this useless assignment to local variable "in".(‰∆æ”8ºıÌ’Â1
+D
+java:S1481"'Remove this unused "in" local variable.(‰∆æ”8¿ıÌ’Â1
+]	java:S125	"<This block of commented-out lines of code should be removed.(«÷ìü˙ˇˇˇˇ8ß¶Í’Â1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(Óñò…¸ˇˇˇˇ8¶öÌ’Â1
